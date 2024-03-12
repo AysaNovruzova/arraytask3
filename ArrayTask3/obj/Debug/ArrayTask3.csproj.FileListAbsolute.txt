@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\ArrayTask3\ArrayTask3\bin\Debug\ArrayTask3.exe.config
+C:\Users\HP\Desktop\ArrayTask3\ArrayTask3\bin\Debug\ArrayTask3.exe
+C:\Users\HP\Desktop\ArrayTask3\ArrayTask3\bin\Debug\ArrayTask3.pdb
+C:\Users\HP\Desktop\ArrayTask3\ArrayTask3\obj\Debug\ArrayTask3.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ArrayTask3\ArrayTask3\obj\Debug\ArrayTask3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ArrayTask3\ArrayTask3\obj\Debug\ArrayTask3.exe
+C:\Users\HP\Desktop\ArrayTask3\ArrayTask3\obj\Debug\ArrayTask3.pdb
